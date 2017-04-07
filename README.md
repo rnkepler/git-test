@@ -1,6 +1,6 @@
 # git-test
 Just testing
 
-change from second big repo
+change from second small repo
 
 and another change
